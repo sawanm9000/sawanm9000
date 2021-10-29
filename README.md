@@ -1,6 +1,6 @@
-<div style="background-color: #216cab; width: 100%">
+<span style="background-color: #216cab; width: 100%; color: red">
   Test
-</div>
+</span>
   
 # [Personal site](http://sawanm9000.github.io/)
 
