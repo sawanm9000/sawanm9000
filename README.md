@@ -1,6 +1,4 @@
-<span style="background-color: white; color: blue">
 # [Link to personal site](http://sawanm9000.github.io/)
-</span>
 
 <!--
 **sawanm9000/sawanm9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
